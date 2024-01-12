@@ -1,8 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\css",
+    "\\assets\\images",
+    "\\assets\\js",
+    "\\_includes",
+    "\\_layouts",
+    "\\_pages",
     "\\_posts"
   ],
-  "SelectedNode": "\\Gemfile.lock",
+  "SelectedNode": "\\_layouts\\default.html",
   "PreviewInSolutionExplorer": false
 }
