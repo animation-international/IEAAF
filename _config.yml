@@ -6,10 +6,11 @@ favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 disqus: ''
 email: 'contact@ieaaf.org'
-mailchimp-list: ''
+#mailchimp-list: ''
 
 include: ["_pages"]
-permalink: /:title/
+permalink: ':title:output_ext' 
+url: "https://ieaaf.org"
 
 # Plugins
 plugins: 
