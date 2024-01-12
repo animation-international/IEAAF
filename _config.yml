@@ -21,19 +21,19 @@ plugins:
 authors:
     IEAAF:
       name:           IEAAF
-      site:            https://ieaaf.org
+      
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am IEAAF."
       email:          contact@ieaaf.org
-      twitter:        
+          
 
     Tester1:
       name:           Tester1
-      site:           https://ieaaf.org
+      
       avatar:         /assets/images/avatar2.jpg
       bio:            "Hi, I am Tester1."
       email:          contact@ieaaf.org
-      twitter:        
+           
  
 # Defaults
 defaults:
