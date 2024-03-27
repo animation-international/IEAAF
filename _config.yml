@@ -1,6 +1,6 @@
 # Site
 name: 'IEAAF.ORG'
-description: 'IEAAF'
+description: 'IEAAF 国际动画电影艺术联盟'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
